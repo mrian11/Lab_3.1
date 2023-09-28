@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Користувач\source\repos\Lab_3.1\Lab_3.1\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Користувач\source\repos\Lab_3.1\Lab_3.1\Source.cpp(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Lab_3.1.vcxproj -> C:\Users\Користувач\source\repos\Lab_3.1\Debug\Lab_3.1.exe
